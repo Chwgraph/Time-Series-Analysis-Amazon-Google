@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-5058 Proj1
-
-@author: 17100
+AMZN GOOG
 """
 
 import numpy as np
